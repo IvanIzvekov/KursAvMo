@@ -1,0 +1,3 @@
+﻿  MMetod.cpp
+C:\Users\Иван Извеков\source\repos\MMetod\Table.h(161,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  MMetod.vcxproj -> C:\Users\Иван Извеков\source\repos\MMetod\x64\Debug\MMetod.exe
